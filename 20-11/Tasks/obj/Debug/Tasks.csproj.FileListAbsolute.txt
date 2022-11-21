@@ -1,0 +1,8 @@
+C:\Users\Amer\Source\Repos\C-Tasks\Tasks\Tasks\bin\Debug\Tasks.exe.config
+C:\Users\Amer\Source\Repos\C-Tasks\Tasks\Tasks\bin\Debug\Tasks.exe
+C:\Users\Amer\Source\Repos\C-Tasks\Tasks\Tasks\bin\Debug\Tasks.pdb
+C:\Users\Amer\Source\Repos\C-Tasks\Tasks\Tasks\obj\Debug\Tasks.csproj.AssemblyReference.cache
+C:\Users\Amer\Source\Repos\C-Tasks\Tasks\Tasks\obj\Debug\Tasks.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amer\Source\Repos\C-Tasks\Tasks\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Amer\Source\Repos\C-Tasks\Tasks\Tasks\obj\Debug\Tasks.exe
+C:\Users\Amer\Source\Repos\C-Tasks\Tasks\Tasks\obj\Debug\Tasks.pdb
