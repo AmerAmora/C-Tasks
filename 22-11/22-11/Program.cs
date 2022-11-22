@@ -32,7 +32,7 @@ namespace _22_11
             int sum = 0;
             for (int i = 0; i < 3; i++)
             { numbers[i] = Convert.ToInt32(subs[i]); sum += numbers[i]; }
-            Console.WriteLine(sum);
+            Console.WriteLine("the sum of numbers" +sum);
             //Task 5
             int oddsum = 0;
             for(int i=1;i<=100;i++)
@@ -41,7 +41,7 @@ namespace _22_11
                 
 
             }
-            Console.WriteLine(oddsum);
+            Console.WriteLine("the sum of odd numbers for 1 too 100 is : "+ oddsum);
             //Task 6
             for (int row = 0; row <= 4; row++) 
             
