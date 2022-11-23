@@ -120,8 +120,32 @@ namespace _23_11
 
         static void Main(string[] args)
         {
-           
+            Console.WriteLine("Enter 10 numbers");
+            int[] nums = new int[10];
+            for (int i = 0; i < nums.Length; i++)
+            {
+                nums[i] = Convert.ToInt32(Console.ReadLine());
+            }
+            Task1(nums);
+            Task2();
+            int[] years = { 1763, 1972, 1925, 1916, 1984, 1124, 1950, 2020 };
+            Task3(years);
+            Task4();
+            Task5(2, 4, 4);
+            Console.WriteLine("Enter your username");
+            string username = Console.ReadLine();
+            Console.WriteLine("Enter your password");
+            string password = Console.ReadLine();
+            Task6(username,password);
+            Task7(3, 3);
             Task8(1900);
+            Task9(3);
+            Console.WriteLine(Task6(username, password));
+            Console.WriteLine(Task7(2,6));
+            Console.WriteLine("Enter a sentence ");
+            string sentence=Console.ReadLine(); 
+            Console.WriteLine (" Number of words in that sentence is " + Task10(sentence));
+            
             
 
         }
