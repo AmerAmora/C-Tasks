@@ -102,12 +102,21 @@ namespace _23_11
         
         
         }
-        static void Task9(int num) {
-            if (num == 2 || num == 3) Console.WriteLine(num+ " Is a prime number");
-            else if (num % 2 == 0 || num % 3 == 0||num%5==0) 
-                Console.WriteLine(num + " is not a prime number"); 
-            else 
-                Console.WriteLine(num + " Is a prime number"); 
+        static string Task9(int num) {
+            
+            
+            if (num == 2 || num == 3) { return " prime number"; }
+            for (int i = 2; i < num; i++)
+            {
+                if (num % i == 0)
+                {
+                    
+                    return "not a prime number";
+                }
+               
+            }
+            return "prime number";
+
         }
         static int Task10(string sentence) { 
             string[] slicer = sentence.Split(' ');
@@ -139,7 +148,7 @@ namespace _23_11
             //Task6(username,password);
             //Task7(3, 3);
             //Task8(1900);
-            Task9(27);
+            Console.WriteLine( Task9());
             //Console.WriteLine(Task6(username, password));
             //Console.WriteLine(Task7(2,6));
             //Console.WriteLine("Enter a sentence ");
