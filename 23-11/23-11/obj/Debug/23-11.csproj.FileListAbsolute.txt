@@ -1,0 +1,8 @@
+C:\Users\hoken\C-Tasks\23-11\23-11\bin\Debug\23-11.exe.config
+C:\Users\hoken\C-Tasks\23-11\23-11\bin\Debug\23-11.exe
+C:\Users\hoken\C-Tasks\23-11\23-11\bin\Debug\23-11.pdb
+C:\Users\hoken\C-Tasks\23-11\23-11\obj\Debug\23-11.csproj.AssemblyReference.cache
+C:\Users\hoken\C-Tasks\23-11\23-11\obj\Debug\23-11.csproj.SuggestedBindingRedirects.cache
+C:\Users\hoken\C-Tasks\23-11\23-11\obj\Debug\23-11.csproj.CoreCompileInputs.cache
+C:\Users\hoken\C-Tasks\23-11\23-11\obj\Debug\23-11.exe
+C:\Users\hoken\C-Tasks\23-11\23-11\obj\Debug\23-11.pdb
