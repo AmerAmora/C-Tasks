@@ -1,0 +1,8 @@
+C:\Users\Amer\C-Tasks\27-11\27-11\bin\Debug\27-11.exe.config
+C:\Users\Amer\C-Tasks\27-11\27-11\bin\Debug\27-11.exe
+C:\Users\Amer\C-Tasks\27-11\27-11\bin\Debug\27-11.pdb
+C:\Users\Amer\C-Tasks\27-11\27-11\obj\Debug\27-11.csproj.AssemblyReference.cache
+C:\Users\Amer\C-Tasks\27-11\27-11\obj\Debug\27-11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amer\C-Tasks\27-11\27-11\obj\Debug\27-11.csproj.CoreCompileInputs.cache
+C:\Users\Amer\C-Tasks\27-11\27-11\obj\Debug\27-11.exe
+C:\Users\Amer\C-Tasks\27-11\27-11\obj\Debug\27-11.pdb

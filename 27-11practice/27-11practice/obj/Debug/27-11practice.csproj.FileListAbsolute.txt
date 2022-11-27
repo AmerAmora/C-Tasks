@@ -1,0 +1,8 @@
+C:\Users\Amer\C-Tasks\27-11practice\27-11practice\bin\Debug\27-11practice.exe.config
+C:\Users\Amer\C-Tasks\27-11practice\27-11practice\bin\Debug\27-11practice.exe
+C:\Users\Amer\C-Tasks\27-11practice\27-11practice\bin\Debug\27-11practice.pdb
+C:\Users\Amer\C-Tasks\27-11practice\27-11practice\obj\Debug\27-11practice.csproj.AssemblyReference.cache
+C:\Users\Amer\C-Tasks\27-11practice\27-11practice\obj\Debug\27-11practice.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amer\C-Tasks\27-11practice\27-11practice\obj\Debug\27-11practice.csproj.CoreCompileInputs.cache
+C:\Users\Amer\C-Tasks\27-11practice\27-11practice\obj\Debug\27-11practice.exe
+C:\Users\Amer\C-Tasks\27-11practice\27-11practice\obj\Debug\27-11practice.pdb

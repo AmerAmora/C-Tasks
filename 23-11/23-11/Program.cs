@@ -141,21 +141,21 @@ namespace _23_11
             //Task3(years);
             //Task4();
             //Task5(2, 4, 4);
-            //Console.WriteLine("Enter your username");
-            //string username = Console.ReadLine();
-            //Console.WriteLine("Enter your password");
-            //string password = Console.ReadLine();
-            //Task6(username,password);
-            //Task7(3, 3);
-            //Task8(1900);
-            Console.WriteLine( Task9());
-            //Console.WriteLine(Task6(username, password));
-            //Console.WriteLine(Task7(2,6));
-            //Console.WriteLine("Enter a sentence ");
-            //string sentence=Console.ReadLine(); 
-            //Console.WriteLine (" Number of words in that sentence is " + Task10(sentence));
-            
-            
+            Console.WriteLine("Enter your username");
+            string username = Console.ReadLine();
+            Console.WriteLine("Enter your password");
+            string password = Console.ReadLine();
+            Console.WriteLine(Task6(username, password));
+            Task7(3, 3);
+            Task8(1900);
+            Console.WriteLine(Task9(7));
+            Console.WriteLine(Task6(username, password));
+            Console.WriteLine(Task7(2, 6));
+            Console.WriteLine("Enter a sentence ");
+            string sentence = Console.ReadLine();
+            Console.WriteLine(" Number of words in that sentence is " + Task10(sentence));
+
+
 
         }
     }
