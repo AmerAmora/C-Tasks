@@ -20,7 +20,8 @@ namespace _29_11
         }
 
         public void age() {
-            DateTime now= DateTime.Now; TimeSpan value = now.Subtract(dateofbirth);
+            DateTime now= DateTime.Now; 
+            TimeSpan value = now.Subtract(dateofbirth);
            
             Console.WriteLine((int)value.TotalDays/365);
 
