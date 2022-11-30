@@ -12,10 +12,10 @@ namespace _29_11
         public string name { get; set; }
         public int id { get; set; }
         public DateTime dateofbirth { get; set; }
-        public Employee(string name,int id, int day,int month, int year) 
+        public Employee(string name,int id, DateTime d) 
         {   this.name = name;
             this.id = id;
-            dateofbirth= new DateTime(year, month, day);
+            dateofbirth= d;
 
         }
 
@@ -30,7 +30,7 @@ namespace _29_11
     }
     class Manager : Employee
     {
-        public Manager(string name, int id, int day, int month, int year) : base(name, id, day, month, year)
+        public Manager(string name, int id, DateTime d) : base(name, id, d)
         {
         }
         public override void print()
@@ -43,8 +43,9 @@ namespace _29_11
     {
         static void Main(string[] args)
         {
-
-            Manager man = new Manager("Amer",3,18,8,1999);
+            DateTime d=new DateTime();
+            d=Convert.ToDateTime( Console.ReadLine());
+            Manager man = new Manager("Amer",3, d);
             man.print();
             man.age();
         }
